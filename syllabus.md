@@ -6,7 +6,7 @@
 
    Instructor:  Michael Fudge
    Email: mafudge@syr.edu
-   Office Hours:  TBA
+   Office Hours:  M/W 11a-1p in 314 hinds
 ```
 
 ## Course Description
@@ -94,6 +94,13 @@ The assignments are programming / problem solving activities that you will compl
 
 Each Monday we will review the homework assignment. Students will be asked to contribute to the discussion.
 
+Factors affecting your grade:
+
+- Is the code working and correct?
+- Were the instructions followed? (e.g. commit after each function is written)
+- Good reflection: specific, uses terminology, actionable
+- Handed in on time, so your prof only needs to review submissions 1 time.
+
 ### Exams
 
 Exams are summative assessments. They are designed to test your knowledge of the material.  The exams will be issued in class on the dates posted on the course schedule. Exams are closed-book but you may bring one 8.5x11 sheet of paper with your notes on it. Exams length is 60 minutes. They will be a mix of mix of multiple choice, short answer and code tracing and code writing.
@@ -164,15 +171,15 @@ Based on the assignments in this course and our specified learning outcomes, the
 | 10 | 10/28 | 10/30 | 11/1 |
 |   | Web APIs 4-3 | Web APIs 4-4 | Assignment 8 (A8) |
 | 11 | 11/4 | 11/6 | 11/8 |
-|   | Data Visualization 5-1 | Data Visualization 5-2 | Assignment 7 (A7) |
+|   | Data Visualization 5-1 | Data Visualization 5-2 | Assignment 9 (A9) |
 | 12 | 11/11 | 11/13 | 11/15 |
-|   | Data Visualization 5-3 | Data Visualization 5-4 | Assignment 9 (A9) |
+|   | Data Visualization 5-3 | Data Visualization 5-4 | Assignment 10 (A10) |
 | 13 | 11/18 | 11/20 | 11/22 |
-|   | Web Scraping 6-1 | Web Scraping 6-2 | Assignment 8 (A8) |
+|   | Web Scraping 6-1 | Web Scraping 6-2 | Assignment 11 (A11) |
 | 14 | 11/25 | 11/27 | 11/29 |
 |   | No Class: Thanksgiving | No Class: Thanksgiving |  |
 | 15 | 12/2 | 12/4 | 12/6 |
-|   | Web Scraping 6-3 | Web Scraping 6-4 | Assignment 10 (A10) |
+|   | Web Scraping 6-3 | Web Scraping 6-4 | Assignment 12 (A12) |
 | 16 | 12/9 | 12/11 | 12/13 |
 |   | Exam 2 (E2) | No Class | No Class  |
 | 17 | 12/16 | 12/18 | 12/20 |
@@ -191,7 +198,7 @@ Based on the assignments in this course and our specified learning outcomes, the
     - [https://www.tomasbeuzen.com/python-programming-for-data-science/](https://www.tomasbeuzen.com/python-programming-for-data-science/) (2.1 to 2.4)
 - Python 1-3: Functions, documentaion, strings, files
     - [https://www.tomasbeuzen.com/python-programming-for-data-science/](https://www.tomasbeuzen.com/python-programming-for-data-science/) (2.5 to 2.10)
-    - For files / context Managers: [https://realpython.com/python-with-statement(https://realpython.com/python-with-statement)]    
+    - For files / context Managers: [https://realpython.com/python-with-statement](https://realpython.com/python-with-statement)    
 - Python 1-4: Modules, import, pip, testing
     - [https://www.tomasbeuzen.com/python-programming-for-data-science/](https://www.tomasbeuzen.com/python-programming-for-data-science/)  (3.1 to 3.2, and 4.1 to 4.4)
 
